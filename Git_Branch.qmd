@@ -5,4 +5,14 @@ format: html
 editor: visual
 ---
 
-## 
+## Git Practice
+
+```{r}
+something <- NA
+```
+
+add some awesome text.
+
+```{r}
+cool_code <- c(1,2,3)
+```
